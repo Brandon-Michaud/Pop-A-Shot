@@ -1,0 +1,10 @@
+yes 6
+hmm 5
+ref 4
+hmm 4
+bdm 3
+yuh 2
+bet 1
+bdm 1
+ABC 0
+ABC 0
