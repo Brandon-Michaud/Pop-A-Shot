@@ -6,3 +6,10 @@ With the opportunity to use a graphics library, my mind gravitated towards a vid
 
 # Running
 This program was developed using the KISS Institute for Practical Robotics IDE that can be found here: Windows: `https://www.kipr.org/kipr/hardware-software/kiss-ide-windows` Mac OS X: `https://www.kipr.org/kipr/hardware-software/kiss-ide-mac-os-x`. This IDE gives access to the graphics library that I used to design the game. To my knowledge, unfortunately, there is no way to open projects from the file system within the IDE, at least the version I was using. Instead, I made a video `Pop-A-Shot.mp4` with commentary that shows the program running and describes how I implemented things. The source code is also included for reference.
+
+# Relevant Topics and Skills
+- C programming
+- File I/O
+- Graphics
+- Encapsulation using structs
+- Simulated physics
